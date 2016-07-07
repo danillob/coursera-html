@@ -1,0 +1,22 @@
+body {
+	font-family: Calibri, Helvetica, sans-serif;
+	color: #000000;
+}
+
+h1 {
+	margin-top: 35px;
+}
+
+p {
+	background-color: #928f8f;
+	padding: 10px;
+}
+
+.item a{
+	text-align: center;
+	font-size: 1.3em;
+	font-color: #FFFFFF;
+	background-color: #11F4F5;
+	border: 1px solid;
+	padding: 0px;
+}
