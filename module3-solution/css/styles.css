@@ -42,7 +42,9 @@ p {
 }
 
 .navbar-default .navbar-nav>li>a{
+	background-color: #BBBBBB;
 	color: black;
+	border-bottom: 1px solid white;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
